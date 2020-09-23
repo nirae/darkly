@@ -121,9 +121,10 @@ After some tests, we can just upload jpg files (not png). But we can upload othe
 
 ### SQL injection searchimg
 
-Member_images
+Inejction SQL on the page `searchimg`
 
--1 UNION SELECT 1, TABLE_NAME FROM information_schema.TABLES WHERE TABLE_SCHEMA = CHAR(77,101,109,98,101,114,95,105,109,97,103,101,115)
-https://zestedesavoir.com/tutoriels/945/les-injections-sql-le-tutoriel/les-injections-sql-classiques/affichage-denregistrements/
+### SQL injection members
 
+Inejction SQL on the page `member`
 
+### 
