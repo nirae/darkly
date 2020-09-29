@@ -1,4 +1,4 @@
-# Hidden field on pass recover page
+# Cookie admin
 
 ## Exploitation
 
@@ -37,6 +37,9 @@ $ ./exploit.py
 <script>alert('Good job! Flag : df2eb4ba34ed059a1e3e89ff4dfc13445f104a1a52295214def1c4fb1693a5c3'); </script>
 ```
 
+## How to fix it?
+
+Use a PHP session id to manage sessions in a better way
 
 
 

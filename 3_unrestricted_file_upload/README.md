@@ -2,9 +2,11 @@
 
 ## Exploitation
 
-On the homepage, on the bottom, there is some images and 2 buttons **ADD IMAGE** and **SEARCH IMAGE**. On the "add image" page (http://192.168.1.48/index.php?page=upload), there is a form. We can upload some images.
+On the homepage, at the bottom, there is some images and 2 buttons **ADD IMAGE** and **SEARCH IMAGE**. On the "add image" page (http://192.168.1.48/index.php?page=upload), there is a form. We can upload some images.
 
-After many tries, the form only accept `jpg` images, not pmg and not other files. We can check the raw request on the developper tools when we posting an image
+After many tries, the form only accept `jpg` images, not png and not other files.
+
+We can check the raw request on the developper tools when we posting an image
 
 ```
 -----------------------------42702836962405046798154987984

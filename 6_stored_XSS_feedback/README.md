@@ -1,4 +1,4 @@
-# SQL injection searchimg
+# Stored XSS feedback
 
 ## Exploitation
 

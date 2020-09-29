@@ -127,4 +127,6 @@ Inejction SQL on the page `searchimg`
 
 Inejction SQL on the page `member`
 
-### 
+### Stored XSS feedback
+
+Stored XSS on the feedback form, page `feedback`

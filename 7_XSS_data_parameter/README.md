@@ -16,7 +16,7 @@ On the homepage, we can see a link on an image
 
 When we click on it, we go to a page `http://192.168.1.48/?page=media&src=nsa` with the same image
 
-The take the image name on the GET parameter?
+It take the image name on the GET parameter?
 
 The image is not in a `<img>` but in `<object>`
 

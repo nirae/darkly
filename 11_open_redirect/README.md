@@ -1,4 +1,4 @@
-# Invalid input form validation
+# Open redirect
 
 ## Exploitation
 

@@ -1,4 +1,4 @@
-# SQL injection searchimg
+# SQL injection members
 
 ## Exploitation
 
